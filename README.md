@@ -1,14 +1,16 @@
+                  #################    Summary Description  #################
+
 Intersteller Travel Distance Calculation with minimum path and minimum distance.
 
-We can calculate distance between different Planets in our Galaxy by using Shortest Path algorithm of greedy approach.
+We may calculate this distance between different Existing Planets in our Galaxy by using Shortest Path algorithm of any algorithm following the greedy approach!!
 
-In this code we have used Digikstra algorithm to find distance betweeen two nodes in the galaxy with or without traffic. If we calculate with traffic by added delay 
+we have chosen here Digikstra Algorithm to see distance betweeen the two nodes in our galaxy with or without traffic. If we calculate with traffic by added delays 
 
 there could be change in the existing path to travel between Earth(Source)/ Any source to Any Destination.
 
 Here we have React js in the front end to show a easy User Interface to interact for user inputs for source and destination with the Traffic.
 
-################################################Instructions###################################################
+                  #################    Code Setup Instructions Starts here #################
 
 1 - Open the Project in Eclipse or any other IDE or you can run it from the terminal as well if no ide available. 
 
@@ -19,11 +21,9 @@ Here we have React js in the front end to show a easy User Interface to interact
 4 - Open Target folder where the Jar file gets generated on successful build. 
 
 5 - Run Jar file by using command - Java -jar RohitKasture-1.0.0_SNAPSHOT.jar
+  
+                  #################    Instructions Ends here #################
 
-################################################################################################################
+                  #################    Run Instructions Starts here #################
 
-Note -
-
-When you open the App using localhost:8084. Upload the excel from the APP's User Interface. Then Enter Destination and Select your traffic preference.
-
-Then calculate distance.
+Once you open the App using 127.0.0.1:8084. Upload the DATA from MS-EXCEL (already present in the GITHUB Repository) from the APP's User Interface. Then Enter Destination and Select your traffic preference. Then only calculate distance.
