@@ -4,11 +4,9 @@ Intersteller Travel Distance Calculation with minimum path and minimum distance.
 
 We may calculate this distance between different Existing Planets in our Galaxy by using Shortest Path algorithm of any algorithm following the greedy approach!!
 
-we have chosen here Digikstra Algorithm to see distance betweeen the two nodes in our galaxy with or without traffic. If we calculate with traffic by added delays 
-
 there could be change in the existing path to travel between Earth(Source)/ Any source to Any Destination.
 
-Here we have React js in the front end to show a easy User Interface to interact for user inputs for source and destination with the Traffic.
+We have React js in the front end to show a easy User Interface to interact for user inputs for source and destination with the Traffic.
 
                   #################    Code Setup Instructions Starts here #################
 
